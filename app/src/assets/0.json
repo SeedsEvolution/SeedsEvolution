@@ -1,0 +1,24 @@
+{
+    "name": "Seeds",
+    "symbol": "DRIP",
+    "image": "0.png",
+    "attributes": [
+        { "trait_type": "background", "value": "summer" },
+        { "trait_type": "color", "value": "solana" },
+        { "trait_type": "face", "value": "beast" }
+      ],
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "Dz3spy7Me5Et3vZMTq7x29fVxGbLts6PdKirLEabeMm1",
+          "share": 100
+        }
+      ]
+    }
+  }
