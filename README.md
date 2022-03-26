@@ -8,5 +8,5 @@ To get started, clone this repo and follow these commands:
 
 
 ### Questions?
-Have some questions? Hit us out on twitter @seedsevolution
+Have some questions? Hit us up on twitter! @seedsevolution
 
